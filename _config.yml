@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tianying WANG
+title: Liangliang Zhuang
 
 # Short description of your site
-description: Ph.D. in Statistics
+description: Postgrate in Statistics
 
 # --- Navigation bar options --- #
 
@@ -68,7 +68,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Tianying Wang
+  name: Liangliang Zhuang
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -76,17 +76,17 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "tw2696@cumc.columbia.edu"
+  email: "a641292753@qq.com"
 #  facebook: daattali
-  github: tianyingw
+  github: liangliangzhuang
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: tianyingwang0905
+#  linkedin: tianyingwang0905
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: tianying.w
+#  instagram: tianying.w
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
