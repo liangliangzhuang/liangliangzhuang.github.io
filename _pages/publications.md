@@ -8,7 +8,7 @@ author_profile: true
 目前以第一作者或通讯作者发表论文 52 篇，其中 ESI 高被引论文 4 篇，中科院一区 11 篇，SCI 检索论文 47 篇。具体如下：
 
 > 最新发布信息可见 {% if site.author.googlescholar %}
-  <div class="wordwrap"> 最新发布信息可见 <a href="{{site.author.googlescholar}}">谷歌学术</a>.</div> 或者 <a href="{{site.author.researchgate}}">Researchgate</a>.</div>
+  <div class="wordwrap"> 最新发布信息可见 <a href="{{site.author.googlescholar}}">谷歌学术</a>.</div> 或者 <a href="{{site.author.researchgate}}">Researchgate。</a>.</div>
 {% endif %}
 
 
