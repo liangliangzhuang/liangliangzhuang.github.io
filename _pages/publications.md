@@ -10,23 +10,23 @@ author_profile: true
 
 ## 期刊论文
 
-[52] **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2024). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
+1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2024). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
 
-[51] **Ancha Xu**, Guanqi Fang, Liangliang Zhuang, Cheng Gu. (2024). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
+1. **Ancha Xu**, Guanqi Fang, Liangliang Zhuang, Cheng Gu. (2024). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
 
-[50] Liangliang Zhuang, **Ancha Xu**, Yijun Wang, Yincai Tang. (2024). "Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process." *European Journal of Operational Research*, 319(3), 877-890. [<a href="https://doi.org/10.1016/j.ejor.2024.06.032">link</a>]
+1. Liangliang Zhuang, **Ancha Xu**, Yijun Wang, Yincai Tang. (2024). "Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process." *European Journal of Operational Research*, 319(3), 877-890. [<a href="https://doi.org/10.1016/j.ejor.2024.06.032">link</a>]
 
-[49] **Ancha Xu**, Binbing Wang, Di Zhu, Jihong Pang, Xinze Lian. (2024). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
+1. **Ancha Xu**, Binbing Wang, Di Zhu, Jihong Pang, Xinze Lian. (2024). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
 
-[48] Shirong Zhou, **Ancha Xu**, Yincai Tang, Lijuan Shen. (2024). "Fast Bayesian inference of reparameterized gamma process with random effects." *IEEE Transactions on Reliability*, 73(1), 399-412. [<a href="https://doi.org/10.1109/TR.2023.3263940">link</a>]
+1. Shirong Zhou, **Ancha Xu**, Yincai Tang, Lijuan Shen. (2024). "Fast Bayesian inference of reparameterized gamma process with random effects." *IEEE Transactions on Reliability*, 73(1), 399-412. [<a href="https://doi.org/10.1109/TR.2023.3263940">link</a>]
 
-[47] Liangliang Zhuang, **Ancha Xu**, Xiaolin Wang. (2023). "A prognostic driven predictive maintenance framework based on Bayesian deep learning." *Reliability Engineering & System Safety*, 234, 109181. [<a href="https://doi.org/10.1016/j.ress.2023.109181">link</a>]
+1. Liangliang Zhuang, **Ancha Xu**, Xiaolin Wang. (2023). "A prognostic driven predictive maintenance framework based on Bayesian deep learning." *Reliability Engineering & System Safety*, 234, 109181. [<a href="https://doi.org/10.1016/j.ress.2023.109181">link</a>]
 
-[46] **徐安察**, 章礼明, 顾诚, 吴昌仁. (2023). "Bayesian Inference for Multicomponent Stress–Strength Model Under Weibull Distribution." *应用概率统计*, 39(6), 907-923. [<a href="https://doi.org/10.3969/j.issn.1001-4268.2023.06.009">link</a>]
+1. **徐安察**, 章礼明, 顾诚, 吴昌仁. (2023). "Bayesian Inference for Multicomponent Stress–Strength Model Under Weibull Distribution." *应用概率统计*, 39(6), 907-923. [<a href="https://doi.org/10.3969/j.issn.1001-4268.2023.06.009">link</a>]
 
-[45] Liangliang Zhuang, **Ancha Xu**, Binbing Wang, Yuguo Xue, Songzi Zhang. (2023). "Data analysis of progressive-stress accelerated life tests with group effects." *Quality Technology & Quantitative Management*, 20(6), 763-783. [<a href="https://doi.org/10.1080/16843703.2022.2147690">link</a>]
+1. Liangliang Zhuang, **Ancha Xu**, Binbing Wang, Yuguo Xue, Songzi Zhang. (2023). "Data analysis of progressive-stress accelerated life tests with group effects." *Quality Technology & Quantitative Management*, 20(6), 763-783. [<a href="https://doi.org/10.1080/16843703.2022.2147690">link</a>]
 
-[44] Liming Zhang, **Ancha Xu**, Liuting An, Min Li. (2022). "Bayesian inference of system reliability for multicomponent stress-strength model under Marshall-Olkin Weibull distribution." *Systems*, 10(6), 196. [<a href="https://doi.org/10.3390/systems10060196">link</a>]
+1. Liming Zhang, **Ancha Xu**, Liuting An, Min Li. (2022). "Bayesian inference of system reliability for multicomponent stress-strength model under Marshall-Olkin Weibull distribution." *Systems*, 10(6), 196. [<a href="https://doi.org/10.3390/systems10060196">link</a>]
 
 [43] Chunling Luo, Lijuan Shen, **Ancha Xu**. (2022). "Modelling and estimation of system reliability under dynamic operating environments and lifetime ordering constraints." *Reliability Engineering & System Safety*, 218, 108136. [<a href="https://doi.org/10.1016/j.ress.2021.108136">link</a>]
 
