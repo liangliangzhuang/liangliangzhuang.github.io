@@ -16,8 +16,9 @@ author_profile: true
   .text p { margin-bottom: 8px; }
 </style>
 
-<img src="/images/team.jpg" alt="" style="width: 150px; height: 200px; margin-right: 20px;" />
-
+<div style="text-align: center;">
+  <img src="/images/team.jpg" alt="" style="width: 350px; height: 200px;" />
+</div>
 
 ## 在读博士学生
 
