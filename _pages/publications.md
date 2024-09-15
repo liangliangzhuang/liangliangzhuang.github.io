@@ -12,29 +12,29 @@ author_profile: true
  
 (Student author underlined)
 
-[1] **Ancha Xu**, Yincai Tang. (2009). "Bayesian analysis of Pareto reliability with dependent masked data." *IEEE Transactions on Reliability*, 58(4), 583-588. [doi:10.1109/TR.2009.2026811](https://doi.org/10.1109/TR.2009.2026811)
+[1] **Ancha Xu**, Yincai Tang. (2009). "Bayesian analysis of Pareto reliability with dependent masked data." *IEEE Transactions on Reliability*, 58(4), 583-588. [<a href="https://doi.org/10.1109/TR.2009.2026811">link</a>]
 
-[2] **Ancha Xu**, Yincai Tang. (2010). "Reference Analysis for Birnbaum-Saunders Distribution." *Computational Statistics and Data Analysis*, 54(1), 185-192. [doi:10.1016/j.csda.2009.08.004](https://doi.org/10.1016/j.csda.2009.08.004)
+[2] **Ancha Xu**, Yincai Tang. (2010). "Reference Analysis for Birnbaum-Saunders Distribution." *Computational Statistics and Data Analysis*, 54(1), 185-192. [<a href="https://doi.org/10.1016/j.csda.2009.08.004">link</a>]
 
 [3] **Ancha Xu**, Yincai Tang. (2010). "EM algorithm for degradation data analysis." *Journal of East China Normal University (Natural Science)*, 5, 38-48.
 
-[4] **Ancha Xu**, Yincai Tang. (2011). "Nonparametric Bayesian analysis of competing risks problem with masked data." *Communications in Statistics – Theory and Methods*, 40(13), 2326-2336. [doi:10.1080/03610921003786830](https://doi.org/10.1080/03610921003786830)
+[4] **Ancha Xu**, Yincai Tang. (2011). "Nonparametric Bayesian analysis of competing risks problem with masked data." *Communications in Statistics – Theory and Methods*, 40(13), 2326-2336. [<a href="https://doi.org/10.1080/03610921003786830">link</a>]
 
-[5] **Ancha Xu**, Yincai Tang. (2011). "Bayesian analysis of Birnbaum-Saunders distribution with partial information." *Computational Statistics and Data Analysis*, 55(7), 2324-2333. [doi:10.1016/j.csda.2011.01.021](https://doi.org/10.1016/j.csda.2011.01.021)
+[5] **Ancha Xu**, Yincai Tang. (2011). "Bayesian analysis of Birnbaum-Saunders distribution with partial information." *Computational Statistics and Data Analysis*, 55(7), 2324-2333. [<a href="https://doi.org/10.1016/j.csda.2011.01.021">link</a>]
 
-[6] **Ancha Xu**, Yincai Tang. (2011). "Objective Bayesian Analysis of Accelerated Competing Failure Models under Type-I Censoring." *Computational Statistics and Data Analysis*, 55(10), 2830-2839. [doi:10.1016/j.csda.2011.04.009](https://doi.org/10.1016/j.csda.2011.04.009)
+[6] **Ancha Xu**, Yincai Tang. (2011). "Objective Bayesian Analysis of Accelerated Competing Failure Models under Type-I Censoring." *Computational Statistics and Data Analysis*, 55(10), 2830-2839. [<a href="https://doi.org/10.1016/j.csda.2011.04.009">link</a>]
 
 [7] **Ancha Xu**, Yincai Tang. (2012). "Statistical Analysis of Competing Failure Modes in Accelerated Life Testing Based on Assumed Copulas." *Chinese Journal of Applied Probability and Statistics*, 28(1), 51-62.
 
-[8] **Jiayu Fu**, **Ancha Xu**, Yincai Tang. (2012). "Objective Bayesian Analysis of Pareto Distribution under Progressive Type-II Censoring." *Statistics and Probability Letters*, 82(10), 1829-1836. [doi:10.1016/j.spl.2012.06.007](https://doi.org/10.1016/j.spl.2012.06.007)
+[8] Jiayu Fu, **Ancha Xu**, Yincai Tang. (2012). "Objective Bayesian Analysis of Pareto Distribution under Progressive Type-II Censoring." *Statistics and Probability Letters*, 82(10), 1829-1836. [<a href="https://doi.org/10.1016/j.spl.2012.06.007">link</a>]
 
-[9] **Ancha Xu**, Yincai Tang. (2012). "Objective Bayesian Analysis for Linear Degradation Models." *Communications in Statistics – Theory and Methods*, 41(21), 4034-4046. [doi:10.1080/03610926.2012.705942](https://doi.org/10.1080/03610926.2012.705942)
+[9] **Ancha Xu**, Yincai Tang. (2012). "Objective Bayesian Analysis for Linear Degradation Models." *Communications in Statistics – Theory and Methods*, 41(21), 4034-4046. [<a href="https://doi.org/10.1080/03610926.2012.705942">link</a>]
 
 [10] **Ancha Xu**, Yincai Tang. (2012). "An Overview on Statistical Analysis for Masked System Lifetime Data." *Chinese Journal of Applied Probability and Statistics*, 28(4), 380-388.
 
-[11] **Qiang Guang**, **Yincai Tang**, **Ancha Xu**. (2013). "Objective Bayesian Analysis For Bivariate Marshall-Olkin Exponential Distribution." *Computational Statistics and Data Analysis*, 64(7), 299-313. [doi:10.1016/j.csda.2012.705942](https://doi.org/10.1016/j.csda.2012.705942)
+[11] Qiang Guang, Yincai Tang, **Ancha Xu**. (2013). "Objective Bayesian Analysis For Bivariate Marshall-Olkin Exponential Distribution." *Computational Statistics and Data Analysis*, 64(7), 299-313. [<a href="https://doi.org/10.1016/j.csda.2012.705942">link</a>]
 
-[12] **Ancha Xu**, Yincai Tang. (2013). "Posterior Propriety in Nonparametric Mixed Effects Model." *Applied Mathematics—A Journal of Chinese Universities, Series B*, 28(3), 369-378. [doi:10.1007/s11766-013-2844-0](https://doi.org/10.1007/s11766-013-2844-0)
+[12] **Ancha Xu**, Yincai Tang. (2013). "Posterior Propriety in Nonparametric Mixed Effects Model." *Applied Mathematics—A Journal of Chinese Universities, Series B*, 28(3), 369-378. [<a href="https://doi.org/10.1007/s11766-013-2844-0">link</a>]
 
 
 
