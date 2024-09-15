@@ -12,7 +12,7 @@ title                    : "徐安察的个人主页"
 title_separator          : "-"
 name                     : &name "徐安察"
 description              : &description "personal description"
-url                      : https://github.com/liangliangzhuang/liangliangzhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liangliangzhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liangliangzhuang/liangliangzhuang.github.io"
 
