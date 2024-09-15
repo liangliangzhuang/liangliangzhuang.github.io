@@ -5,22 +5,22 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "论文与著作"
     url: /publications/
  
-  - title: "People"
+  - title: "研究团队"
     url: /portfolio/
 
   # - title: "CV"
   #   url: /cv/   
         
-  - title: "Talks"
+  - title: "报告"
     url: /talks/   
 
-  - title: "Teaching"
+  - title: "教学"
     url: /teaching/  
 
-  - title: "News"
+  - title: "新闻"
     url: /year-archive/
     
 
