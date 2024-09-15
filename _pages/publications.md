@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap"> <a href="{{site.author.googlescholar}}">谷歌学术</a> 或者 <a href="{{site.author.researchgate}}">Researchgate</a>。</div>
 {% endif %}
 
-<h2>五年内发表的文章</h2>
+## 期刊论文
 
 [1] **Ancha Xu**, Yincai Tang. (2009). "Bayesian analysis of Pareto reliability with dependent masked data." *IEEE Transactions on Reliability*, 58(4), 583-588. [<a href="https://doi.org/10.1109/TR.2009.2026811">link</a>]
 
