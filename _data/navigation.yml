@@ -7,10 +7,7 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-
+ 
   - title: "People"
     url: /portfolio/
 
@@ -19,6 +16,9 @@ main:
         
   - title: "Talks"
     url: /talks/   
+
+  - title: "Teaching"
+    url: /teaching/  
 
   - title: "News"
     url: /year-archive/
