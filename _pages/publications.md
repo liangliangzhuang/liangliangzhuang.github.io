@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "论文与著作"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+目前以第一作者或通讯作者发表论文 52 篇，其中 ESI 高被引论文 4 篇，中科院一区 11 篇，SCI 检索论文 47 篇。具体如下：
+
+> 最新发布信息可见 {% if site.author.googlescholar %}
+  <div class="wordwrap"> 最新发布信息可见 <a href="{{site.author.googlescholar}}">谷歌学术</a>.</div> 或者 <a href="{{site.author.researchgate}}">Researchgate</a>.</div>
 {% endif %}
 
 
