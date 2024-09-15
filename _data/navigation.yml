@@ -13,16 +13,17 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-        
-  - title: "News"
-    url: /year-archive/
-    
+
   - title: "People"
     url: /portfolio/
 
   - title: "CV"
-    url: /cv/
+    url: /cv/   
+        
+  - title: "News"
+    url: /year-archive/
+    
+
     
   # - title: "Guide"
   #   url: /markdown/
