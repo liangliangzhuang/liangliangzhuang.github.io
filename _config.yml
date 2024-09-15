@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ancha Xu, 徐安察"
+  name             : "徐安察"
   pronouns         : # example: "he/his"  
-  bio              : "教授，博士生导师"
-  location         : "浙江，中国"
+  bio              : "教授, 博士生导师"
+  location         : "浙江, 中国"
   employer         : "浙江工商大学"
   uri              : # URL
   email            : "xuancha [at] mail.zjgsu.edu.cn" 
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
