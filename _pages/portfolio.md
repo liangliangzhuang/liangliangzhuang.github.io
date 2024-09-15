@@ -17,7 +17,7 @@ author_profile: true
 </style>
 
 <div style="text-align: center;">
-  <img src="/images/team.jpg" alt="" style="width: 350px; height: 200px;" />
+  <img src="/images/team.jpg" alt="" style="width: 750px; height: 400px;" />
 </div>
 
 
