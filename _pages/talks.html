@@ -8,26 +8,14 @@
   <meta name="CocoaVersion" content="2487.7">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
     span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">---</span></p>
-<p class="p1"><span class="s1">layout: archive</span></p>
-<p class="p1"><span class="s1">title: "Talks and presentations"</span></p>
-<p class="p1"><span class="s1">permalink: /talks/</span></p>
-<p class="p1"><span class="s1">author_profile: true</span></p>
-<p class="p1"><span class="s1">---</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% if site.talkmap_link == true %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">&lt;p style="text-decoration:underline;"&gt;&lt;a href="/talkmap.html"&gt;See a map of all the places I've given a talk!&lt;/a&gt;&lt;/p&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% for post in site.talks reversed %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% include archive-single-talk.html %}</span></p>
-<p class="p1"><span class="s1">{% endfor %}</span></p>
+<p class="p1"><span class="s1">--- layout: archive title: "Talks and presentations" permalink: /talks/ author_profile: true --- {% if site.talkmap_link == true %}</span></p>
+<p class="p2"><span class="s2"><a href="file:///talkmap.html">See a map of all the places I've given a talk!</a></span></p>
+<p class="p1"><span class="s1">{% endif %} {% for post in site.talks reversed %} {% include archive-single-talk.html %} {% endfor %}</span></p>
 </body>
 </html>
