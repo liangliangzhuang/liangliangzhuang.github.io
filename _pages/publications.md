@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-目前以第一作者或通讯作者发表论文 52 篇，其中 ESI 高被引论文 4 篇，中科院一区 11 篇，SCI 检索论文 47 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a> 或者 <a href="{{site.author.researchgate}}">Researchgate</a>。
-
+目前以第一作者或通讯作者发表论文 52 篇，其中 ESI 高被引论文 4 篇，中科院一区 11 篇，SCI 检索论文 47 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>、<a href="{{site.author.researchgate}}">Researchgate</a> 或者
+<a href="https://liangliangzhuang.github.io/cv/">简历</a>。
 ## 期刊论文
 
 [1] **Ancha Xu**, Yincai Tang. (2009). "Bayesian analysis of Pareto reliability with dependent masked data." *IEEE Transactions on Reliability*, 58(4), 583-588. [<a href="https://doi.org/10.1109/TR.2009.2026811">link</a>]
