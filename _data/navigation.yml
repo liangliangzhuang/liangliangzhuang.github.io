@@ -5,10 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "论文与著作"
+  - title: "论文"
     url: /publications/
  
-  - title: "研究团队"
+  - title: "团队"
     url: /portfolio/
 
   # - title: "CV"
