@@ -28,7 +28,7 @@ author_profile: true
 
 1. Liming Zhang, **Ancha Xu**, Liuting An, Min Li. (2022). "Bayesian inference of system reliability for multicomponent stress-strength model under Marshall-Olkin Weibull distribution." *Systems*, 10(6), 196. [<a href="https://doi.org/10.3390/systems10060196">link</a>]
 
-[43] Chunling Luo, Lijuan Shen, **Ancha Xu**. (2022). "Modelling and estimation of system reliability under dynamic operating environments and lifetime ordering constraints." *Reliability Engineering & System Safety*, 218, 108136. [<a href="https://doi.org/10.1016/j.ress.2021.108136">link</a>]
+1. Chunling Luo, Lijuan Shen, **Ancha Xu**. (2022). "Modelling and estimation of system reliability under dynamic operating environments and lifetime ordering constraints." *Reliability Engineering & System Safety*, 218, 108136. [<a href="https://doi.org/10.1016/j.ress.2021.108136">link</a>]
 
 [42] Shirong Zhou, Yincai Tang, **Ancha Xu**. (2021). "A generalized Wiener process with dependent degradation rate and volatility and time-varying mean-to-variance ratio." *Reliability Engineering & System Safety*, 216, 107895. [<a href="https://doi.org/10.1016/j.ress.2021.107895">link</a>]
 
