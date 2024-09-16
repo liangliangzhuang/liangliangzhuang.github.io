@@ -10,9 +10,6 @@ main:
  
   - title: "团队"
     url: /portfolio/
-
-  # - title: "CV"
-  #   url: /cv/   
         
   - title: "报告"
     url: /talks/   
@@ -26,3 +23,6 @@ main:
 
   # - title: "Guide"
   #   url: /markdown/
+
+  # - title: "CV"
+  #   url: /cv/   
