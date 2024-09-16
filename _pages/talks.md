@@ -4,16 +4,13 @@ title: "讲座和报告"
 author_profile: true
 ---
 
-1. **Reparameterized Inverse Gaussian Process and Its Applications**  [<a href="/files/slides/rIG_applications.pdf">Slides</a>]
-
+1. **Reparameterized Inverse Gaussian Process and Its Applications**  [<a href="/files/slides/rIG_applications.pdf">Slides</a>]  
    北京理工大学数学与统计学院  
-
    2024年8月  
-
    北京市
 
 2. **Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process**  [<a href="/files/slides/tp-rIG.pdf">Slides</a>], [<a href="https://mp.weixin.qq.com/s/G_Lx4emMu30AYfBftOFTXw">Link</a>]  
-   苏州大学数学科学学院 
+   苏州大学数学科学学院  
    2023年11月  
    江苏省苏州市
 
