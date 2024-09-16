@@ -4,14 +4,21 @@ title: "讲座和报告"
 author_profile: true
 ---
 
+1. **"Reparameterized Inverse Gaussian Process and Its Applications"**  
+   北京理工大学数学与统计学院  
+   2024年8月  
+   北京市
 
-1. 第十一届中国运筹学会可靠性分会副理事长，中国现场统计研究会可靠性工程常委理事。
+2. **"Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process"**  
+   苏州大学数学科学学院  
+   2023年11月  
+   江苏省苏州市
 
+3. **"A multivariate Student-t process model for dependent tail-weighted degradation data"**  
+   中国运筹学会可靠性分会学术年会  
+   2024年4月  
+   四川省成都市
 
-> 如果你对我的研究领域感兴趣，并有意攻读硕士或博士学位，欢迎将个人简历和成绩单发送至我的邮箱 <xuancha@mail.zjgsu.edu.cn>。
-
-
-
-
+ 
 
 
