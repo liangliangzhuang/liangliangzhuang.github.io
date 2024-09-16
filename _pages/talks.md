@@ -4,7 +4,7 @@ title: "讲座和报告"
 author_profile: true
 ---
 
-1. **"Reparameterized Inverse Gaussian Process and Its Applications"**  [Slides]( /files/slides/rIG_applications.pdf)  
+1. **"Reparameterized Inverse Gaussian Process and Its Applications"**  [<a href="/files/slides/rIG_applications.pdf">Slides</a>]
    北京理工大学数学与统计学院  
    2024年8月  
    北京市
