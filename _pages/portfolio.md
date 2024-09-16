@@ -6,21 +6,6 @@ author_profile: true
 ---
 
 
-<style> 
-  .members{ background-color:white; 
-                 width:1000px; height:180px; overflow:hidden; font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */ }
-  .pic{ width:150px; height:250px; float:left; } 
-  .pic img{ display:block; width:250px; height:200px; } 
-  .text{ width:800px; height:200px; float:right; font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */ font-size: 14px; line-height: 1.6; } 
-  .text h3 { font-size: 20px; margin-bottom: 5px; } 
-  .text p { margin-bottom: 8px; }
-</style>
-
-<div style="text-align: center;">
-  <img src="/images/team.jpg" alt="" style="width: 900px; height: 400px;" />
-</div>
-
-
 ## 指导博士生
 
 - **2022 级**  
