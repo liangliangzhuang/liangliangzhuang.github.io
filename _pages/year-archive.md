@@ -11,7 +11,7 @@ author_profile: true
 
 1. 2024年6月23日：Liangliang Zhuang, Ancha Xu\*, Yijun Wang 和 Yincai Tang 撰写的论文 “Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process” 已被 European Journal of Operational Research 接受发表。
 
-1. 2024年2月：我们的论文 “A prognostic driven predictive maintenance framework based on Bayesian deep learning” 成为热门论文！
+1. 2024年2月：我们的论文 “A prognostic driven predictive maintenance framework based on Bayesian deep learning” 成为热点论文！
 
 1. 2023年12月：博士生庄亮亮参加 2023 年 12 月 11 日至 12 日举行的中国运筹学会可靠性分会年会，并汇报论文 “Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process”。该论文荣获优秀论文奖。
 
